@@ -60,5 +60,4 @@ env = simpy.Environment()
 MyServer = Server( env )
 MyJobGenerator = JobGenerator( env, MyServer )
 env.run( until = 20 )
-print("helalalalaallala")
-print("lalalalalaa")
+
