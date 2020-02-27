@@ -14,6 +14,7 @@ int main(int argv, char **argc) {
 	//cout<<"p[2] ="<< p[2] <<endl;
 	cout << "q[2]= " << q[2] << endl;
 	cout << "p[1][2] = " << p[1][2] << endl;
+	cout<< "da them dong 1"<<endl;
     //=============== Uncomment on submit ================//
     // if (argv == 2) printInPattern(atoi(argc[1]));
     //====================================================//
